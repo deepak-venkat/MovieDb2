@@ -1,0 +1,20 @@
+.tab-btn {
+    color: #ffffff;
+    margin-right: 5px;
+    font-size: 12px;
+    text-decoration: none;
+    background-color: transparent;
+    border: 0px;
+    cursor: pointer;
+    outline: none;
+  }
+  .active-tab-btn {
+    border-bottom: 1px solid;
+    border-color: green;
+    color: green;
+    padding-bottom: 8px;
+  }
+  li{
+    list-style-type: none;
+  }
+  

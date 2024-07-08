@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  margin: 0px;
+}
+.main-container{
+  background-color: black;
+  min-height: 100vh;
+}

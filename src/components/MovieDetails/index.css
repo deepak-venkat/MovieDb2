@@ -1,0 +1,81 @@
+.bg-cont{
+    min-height: 90vh;
+    background-color: gray;
+    padding: 10px;
+    font-family: 'Roboto';
+}
+.movie-details-cont{
+    height: 60vh;
+    display: flex;
+    margin: 15px;
+    border-radius: 5px;
+}
+.left-card{
+    width: 50%;
+    margin: 5px;
+    background-color: black;
+}
+.left-top-card{
+    display: flex;
+}
+.pos-img{
+    height: 120px;
+    width: 80px;
+}
+.movie-title{
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;    
+}
+.runtime-cont{
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+    color: aliceblue;
+    margin-bottom: 5px;
+}
+.movie-release-date{
+    color: aliceblue;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.overview-head{
+    color: azure;
+    font-size: 25px;
+    font-weight: 700;
+}
+.overview{
+    color: azure;
+    font-size: 15px;
+}
+.bd-img{
+    width: 50%;
+    height: 100%;
+}
+.cast-head{
+    color: azure;
+}
+.cast-list{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+.cast-item{
+    margin: 5px;
+}
+.profile{
+    height: 170px;
+    width: 120px;
+}
+.name{
+    color: #ffffff;
+    font-size: 14px;
+}
+.character{
+    color: #ffffff;
+    font-size: 14px;
+}
+.rating-text{
+    color: #ffffff;
+    margin-bottom: 10px;
+}
